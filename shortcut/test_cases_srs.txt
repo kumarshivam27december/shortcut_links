@@ -1,0 +1,79 @@
+Here are three potential test cases for performance requirements of the InShorts app:
+
+Page Load Time: Test the average time it takes for the app to load the main page or list of news articles. This can be measured using a tool like Google Lighthouse or a custom script, and should be tested across multiple devices, network speeds, and geographic locations to ensure consistent performance.
+
+Search Speed: Test the average time it takes for the app to search for and retrieve news articles based on a specific keyword or topic. This can be measured using a custom script that searches for articles using different keywords and measures the time it takes to return results.
+
+User Response Time: Test the average time it takes for the app to respond to user actions, such as clicking a button or saving an article. This can be measured using a custom script that simulates user interactions with the app and measures the time it takes for the app to respond.
+
+Concurrent User Load: Test the performance of the app when a large number of users are using the app simultaneously. This can be measured by simulating multiple users accessing the app simultaneously and measuring the response time of the app under load.
+
+Stress Testing: Test the performance of the app under extreme conditions, such as heavy load, low network bandwidth, or limited device resources. This can be measured by simulating extreme conditions using custom scripts and measuring the app's response time and behavior.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+there are three potential test cases for design constraints for the InShorts app:
+
+Screen Resolution: Test the app's design on devices with different screen resolutions to ensure that the app is designed in a way that works for all devices and screen sizes. This can be done by testing the app on different devices with different screen resolutions and ensuring that all elements of the app are properly aligned and displayed.
+
+Font Size: Test the app's design on devices with different font sizes and ensure that the app's text is legible and easily readable. This can be done by testing the app on different devices with different font sizes and ensuring that the text is clear and easy to read.
+
+Accessibility: Test the app's design to ensure that it is accessible to users with disabilities, such as color blindness or low vision. This can be done by testing the app with assistive technologies such as screen readers or magnifiers, and ensuring that all elements of the app are easily accessible to users with disabilities.
+
+Localization: Test the app's design to ensure that it is compatible with different languages and cultures. This can be done by testing the app with different languages and ensuring that all elements of the app are properly translated and displayed.
+
+Navigation: Test the app's design to ensure that the navigation is intuitive and easy to use. This can be done by testing the app with a variety of users and ensuring that they can easily find and navigate to the different features of the app.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here are three potential test cases for software requirements for the InShorts app:
+
+Operating System Compatibility: Test the app's compatibility with different operating systems, such as Android, iOS, and Windows. This can be done by testing the app on different devices with different operating systems and ensuring that the app functions properly on all platforms.
+
+Browser Compatibility: Test the app's compatibility with different web browsers, such as Chrome, Firefox, and Safari. This can be done by testing the app on different devices with different web browsers and ensuring that the app functions properly on all browsers.
+
+Database Performance: Test the app's ability to retrieve and display news articles from the database quickly and efficiently. This can be done by testing the app's ability to search and retrieve articles using different keywords or topics and measuring the time it takes to return results.
+
+Error Handling: Test the app's ability to handle errors and exceptions gracefully, without crashing or losing data. This can be done by intentionally triggering errors or exceptions in the app and ensuring that the app responds appropriately, such as displaying an error message or offering a workaround.
+
+Security: Test the app's security features, such as encryption, authentication, and authorization. This can be done by testing the app's ability to protect user data and prevent unauthorized access or data breaches.
